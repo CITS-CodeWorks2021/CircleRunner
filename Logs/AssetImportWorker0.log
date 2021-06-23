@@ -75,3 +75,32 @@ Received Import Request.
 Start importing Assets/Scripts/Damagers.cs using Guid(26558cf1dcd914bbd9fd9652afa90d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2211528c8ab620e6479cfa95f0ad787f') in 0.413706 seconds
   Import took 0.417824 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 136.279563 seconds.
+  path: Assets/Scripts/CameraMove.cs
+  artifactKey: Guid(3c3637d7f2e854465b386c3f2ac379c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraMove.cs using Guid(3c3637d7f2e854465b386c3f2ac379c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356879a224d2b08209f402fbbe671889') in 0.003337 seconds
+  Import took 0.008961 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003479 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.507 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2084 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.7 MB.
+System memory in use after: 179.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2528.
+Total: 3.322935 ms (FindLiveObjects: 0.276268 ms CreateObjectMapping: 0.108327 ms MarkObjects: 2.803903 ms  DeleteObjects: 0.132797 ms)
+

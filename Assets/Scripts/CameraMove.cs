@@ -17,6 +17,8 @@ public class CameraMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // A simple movement
+        // Can we get this to accelerate? :)
         if(GameLogic.isPlaying) transform.Translate(camSpeed, 0, 0);
     }
 
