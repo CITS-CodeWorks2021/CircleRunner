@@ -19,7 +19,7 @@ public class CameraMove : MonoBehaviour
     {
         // A simple movement
         // Can we get this to accelerate? :)
-        if(GameLogic.isPlaying) transform.Translate(camSpeed, 0, 0);
+        if(GameLogic.isPlaying) transform.Translate(camSpeed*Time.deltaTime, 0, 0);
     }
 
     void HandleGameEnd()
